@@ -1,0 +1,7 @@
+
+Ackermann =9
+Fibonacci =1
+Factorial =2
+Ackermann =9
+Fibonacci =0
+Factorial =2
